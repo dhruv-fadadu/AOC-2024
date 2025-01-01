@@ -16,10 +16,6 @@ This repository contains my solutions to all the challenges from Advent of Code 
 - The main code for each challenge is in the respective day's file, such as main.py or solution.js.
 - Some days may include additional files, like input files or helper functions, depending on the problem.
 
-How to Run
-Clone the repository:
-git clone https://github.com/your-username/advent-of-code-2024.git
-
 
 **Contributing**
 Feel free to fork the repository and contribute your own solutions or improvements. If you find bugs or have suggestions, please open an issue.
